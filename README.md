@@ -112,5 +112,5 @@ Améliorations Futures
 
   Auteur
 
-  Ndeye Maguette Loum
+  Ndeye Maguette Loum &
   Maty Diop
