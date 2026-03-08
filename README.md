@@ -109,3 +109,8 @@ Améliorations Futures
 - Chiffrement SSL/TLS
 - Base de données (historique persistant)
 - Salons de discussion (rooms)
+
+  Auteur
+
+  Ndeye Maguette Loum
+  Maty Diop
